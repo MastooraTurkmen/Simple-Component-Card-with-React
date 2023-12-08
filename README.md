@@ -31,3 +31,12 @@ $ yarn watch
 # npm run watch
 # pnpm run watch
 ```
+
+-----
+
+## For cloning the project 🪛
+
+```
+# Clone this repository
+
+```
