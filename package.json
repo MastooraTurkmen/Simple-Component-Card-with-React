@@ -12,7 +12,9 @@
     "babel-preset-react": "*"
   },
   "scripts": {
-    "build": "webpack",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
     "watch": "webpack -w"
   }
 }
