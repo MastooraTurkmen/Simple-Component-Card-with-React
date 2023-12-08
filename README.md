@@ -13,12 +13,6 @@ $ yarn
 ```
 
 ```
-$ yarn build 
-# npm run build
-# pnpm run build
-```
-
-```
 $ yarn dev 
 # npm run dev
 # pnpm run dev
