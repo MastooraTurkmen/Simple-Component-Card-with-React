@@ -1,4 +1,4 @@
-# Simple Component Card with React
+# Simple Component Card with React 💳📝
 
 
 
