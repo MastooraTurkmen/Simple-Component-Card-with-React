@@ -15,6 +15,7 @@ $ yarn
 ```
 $ yarn build 
 # npm run build
+# pnpm run build
 ```
 
 Run Webpack in watch-mode to continually compile the JavaScript as you work:
