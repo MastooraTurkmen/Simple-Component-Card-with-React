@@ -34,7 +34,7 @@ $ yarn watch
 
 -----
 
-## Cloning the project
+## Cloning the project 🔩 📪
 
 ```
 # Clone this repository
