@@ -34,9 +34,11 @@ $ yarn watch
 
 -----
 
-## For cloning the project 🪛
+## Cloning the project 🪛
 
 ```
 # Clone this repository
+$ gh repo clone MastooraTurkmen/Simple-Component-Card-with-React
+
 
 ```
