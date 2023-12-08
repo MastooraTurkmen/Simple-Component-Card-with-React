@@ -1,4 +1,4 @@
-# cqG6peTQ
+# Simple Component Card with React
 
 
 
@@ -34,11 +34,13 @@ $ yarn watch
 
 -----
 
-## Cloning the project 🪛
+## Cloning the project
 
 ```
 # Clone this repository
 $ gh repo clone MastooraTurkmen/Simple-Component-Card-with-React
 
+# Go inside the repository
+$ cd simple-component-card-with-react
 
 ```
