@@ -47,4 +47,5 @@ $ cd simple-component-card-with-react
 
 ## Deployment📥
 1. How to deploy our project to netlify site?
+2. I use [Netlify App](https://app.netlify.com/) for deploying my projects.
 
