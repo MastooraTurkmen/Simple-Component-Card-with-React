@@ -2,9 +2,9 @@
 
 
 
-## Development
+## Development 🛠🔨
 
-Quick start:
+Quick start: Write the following command in your terminal
 
 ```
 $ yarn 
